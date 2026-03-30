@@ -5,7 +5,7 @@ $artifactsDir = ".artifacts"
 $publishDir = "publish"
 $fullPublishDir = "$artifactsDir/$publishDir"
 $scriptDir = Split-Path -Path $MyInvocation.MyCommand.Definition -Parent
-$projectFile = "Frank.ServiceBusExplorer.Cli/Frank.ServiceBusExplorer.Cli.csproj"
+$projectFile = "Frank.EtherRipple.Server/Frank.EtherRipple.Server.csproj"
 
 # Change to the script directory
 Set-Location $scriptDir

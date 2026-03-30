@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>Frank.EtherRipple.Server</RootNamespace>
+    <AssemblyName>Frank.EtherRipple.Server</AssemblyName>
+  </PropertyGroup>
+</Project>
